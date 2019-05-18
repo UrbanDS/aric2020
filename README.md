@@ -12,6 +12,7 @@ socio-technological innovations motivate the concept of smart and connected citi
 and progressive and has the potential to provide a higher-quality of life. A resilient city can preserve its
 characteristics, activities and bounce back to its previous stage in the face of an emergency while meeting the daily
 needs of its citizens.
+
 The discussions about making cities intelligent and resilient are occurring on two parallel planes. The challenge is
 to plan and design intelligent cities under the framework of resilience so that online and real-time knowledge
 discovery from dynamic data streams could be used in conjunction with static data sets to help practitioners and
