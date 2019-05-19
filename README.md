@@ -81,9 +81,7 @@ concluding panel discussion of presenters. The following submission types are in
 - Vision or statement paper: 2 pages
 
 Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available
-at http://www.acm.org/publications/proceedings-template.
-
-<a id="forkme_banner" href="https://easychair.org/account/signin?l=ykXVc077LRLMXWQTTxp0aa">Submit a Paper</a>
+at [http://www.acm.org/publications/proceedings-template](http://www.acm.org/publications/proceedings-template).
   
 <a href="https://www.w3docs.com/" class="button">Click Here</a>
 
