@@ -4,10 +4,10 @@
   <tr>
     <td><img src="./img/skyline1.jpg"></td>
     <td colspan="3">
-        2nd ACM SIGSPATIAL
+        <b>2nd ACM SIGSPATIAL
     	  International Workshop on Advances
         in Resilient and Intelligent Cities  
-        (ARIC 2019)
+        (ARIC 2019)</b>
         Tuesday, November 5, 2019 
         Seattle, Washington, USA 
     </td>
