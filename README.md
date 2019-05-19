@@ -1,10 +1,25 @@
 ## ARIC 2018
 
-![Image of skyline1](./img/skyline1.jpg) | Second Header | 3 Header | 4 Header  
------------- | ------------- |-------------|-------------
-![Image of ballard](./img/ballard.jpg) | ![Image of pikemarket](./img/pikemarket.jpg) | ![Image of realestate](./img/realestate.jpg) | ![Image of mount1](./img/mount1.jpg)
-
-2nd ACM SIGSPTIAL  International Workshop on Advances
+<table>
+  <tr>
+    <td>Peter</td>
+    <td></td>
+    <td></td>
+    <td>2nd ACM SIGSPATIAL</br>
+    	International Workshop on Advances</br>
+        in Resilient and Intelligent Cities</br>
+        (ARIC 2018)</br>
+        Tuesday, November 6, 2018</br>
+        Seattle, Washington, USA</br></td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+    <td>$100</td>
+  </tr>
+</tr>
+</table>
 
 
 ### Background
