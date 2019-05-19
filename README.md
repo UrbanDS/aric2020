@@ -3,9 +3,7 @@
 <table>
   <tr>
     <td><img src="./img/skyline1.jpg"></td>
-    <td></td>
-    <td></td>
-    <td>
+    <td colspan="3">
         2nd ACM SIGSPATIAL
     	  International Workshop on Advances
         in Resilient and Intelligent Cities  
