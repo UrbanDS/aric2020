@@ -6,14 +6,13 @@
     <td></td>
     <td></td>
     <td>
-        <table>
-        <tr>2nd ACM SIGSPATIAL</tr>  
-    	  <tr>International Workshop on Advances</tr>  
-        <tr>in Resilient and Intelligent Cities</tr>  
-        <tr>(ARIC 2018)</tr>  
-        <tr>Tuesday, November 6, 2018</tr>  
-        <tr>Seattle, Washington, USA</tr>  
-        </table>
+        2nd ACM SIGSPATIAL
+    	  International Workshop on Advances
+        in Resilient and Intelligent Cities  
+        (ARIC 2018)
+        Tuesday, November 6, 2018 
+        Seattle, Washington, USA 
+    </td>
   </tr>
   <tr>
     <td><img src="./img/ballard.jpg"></td>
