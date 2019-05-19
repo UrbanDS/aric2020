@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
 .button {
 background-color: #1c87c9;
 border: none;
@@ -13,4 +14,21 @@ display: inline-block;
 font-size: 20px;
 margin: 4px 2px;
 cursor: pointer;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: right;
+  padding: 8px;
+}
+
+tr {background-color: #f2f2f2}
+
+th {
+  background-color: #4CAF50;
+  color: white;
 }
