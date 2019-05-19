@@ -85,6 +85,12 @@ at [http://www.acm.org/publications/proceedings-template](http://www.acm.org/pub
   
 <a href="https://easychair.org/account/signin?l=ykXVc077LRLMXWQTTxp0aa" class="button">Submit a Paper</a>
 
+Full research papers should present a specific problem or topic and discuss methodology and findings along with
+future research directions. Short research papers should demonstrate existing methods, toolkits, and best practices
+for building intelligent and resilient cities. Vision papers should be more situational in their coverage and focus on
+future directions while identifying gaps and challenges for designing intelligent cities under the resilient framework
+by addressing existing policy, sociological, and technological challenges. All submitted papers will be peer-
+reviewed to ensure the quality and clarity of the research.
 
 ### Workshop Organizers
 
