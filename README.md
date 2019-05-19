@@ -47,11 +47,42 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Objective
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhawhjw/Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Given the increasing focus on both intelligent and resilient cities, this 1 International Workshop on Advances in
+Resilient and Intelligent Cities (ARIC 2018) is timely. The purpose of this workshop is to bring together researchers,
+practitioners and academicians to address the challenges of integrating computation, geospatial and urban
+sciences in building intelligent and resilient cities. The focus of this workshop is to provide a platform to discuss
+research areas and issues in modeling urban design by considering sensor technology, edge computing,
+visualization, modeling and simulation, advanced data analytics. With a focus on edge computing, knowledge
+discovery, artificial intelligence, and real-time analytics, this workshop fits the general theme of ACM SIGSPATIAL.
+
+Examples of topics for workshop papers include but not limited to:
+
+- Analytics to integrate heterogenous spatio-temporal data for prediction, detection of anomalies and unusual
+patterns
+- Real-time analytics of dynamic and distributed data
+- Edge and distributed computing to mine information from ubiquitous data about cyber-physical systems
+- Theoretical and practical applications of Internet of Things in urban settings
+- Visualizing urban areas and optimal locations of sensors for urban resilience
+- Using augmented reality, simulations and 3D-geovisualization for urban planning and to enhance stakeholder
+experience through collective intelligence
+- Case studies of successful deployment of smart and resilient cities
+- Policies and theoretical framework needed for successful deployment of intelligent and resilient cities
+- Existing state-of-the-art and future directions to integrating social and cyber-physical systems to achieve both
+smart and resilient cities
 
 ### Deadlines
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This 1 International workshop on Advances in Resilient and Intelligent Cities is designed to be a one-day event
+that will include two keynotes (one in the morning and one in the afternoon), individual paper presentations, and
+concluding panel discussion of presenters. The following submission types are invited for this workshop:
+
+- Full research paper: 8-10 pages
+- Short research paper or application demo paper: 4 pages
+- Vision or statement paper: 2 pages
+
+Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available
+at http://www.acm.org/publications/proceedings-template.
+
 
 ### Workshop Organizers
 
