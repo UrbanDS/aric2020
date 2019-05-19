@@ -16,23 +16,22 @@ margin: 4px 2px;
 cursor: pointer;
 }
 
-table {
+table, tr, td {
   border: none;
   border-collapse: collapse;
+}
+
+table {
   width: 100%;
 }
 
 td {
-  border: none;
-  border-collapse: collapse;
   text-align: right;
   vertical-align: top;
 }
 
 tr {
-  border: none;
-  border-collapse: collapse;
-  background-color: #f2f2f2
+  background-color: #A0A0A0
 }
 
 img {
