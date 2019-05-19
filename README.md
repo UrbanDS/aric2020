@@ -83,7 +83,7 @@ concluding panel discussion of presenters. The following submission types are in
 Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available
 at [http://www.acm.org/publications/proceedings-template](http://www.acm.org/publications/proceedings-template).
   
-<a href="https://www.w3docs.com/" class="button">Click Here</a>
+<a href="https://easychair.org/account/signin?l=ykXVc077LRLMXWQTTxp0aa" class="button">Submit a Paper</a>
 
 
 ### Workshop Organizers
