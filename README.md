@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="/img/skyline1.jpg"></td>
+    <td><img src="./img/skyline1.jpg"></td>
     <td></td>
     <td></td>
     <td>2nd ACM SIGSPATIAL</br>
@@ -13,10 +13,10 @@
         Seattle, Washington, USA</br></td>
   </tr>
   <tr>
-    <td><img src="/img/ballard.jpg"></td>
-    <td><img src="/img/pikemarket.jpg"></td>
-    <td><img src="/img/realestate.jpg"></td>
-    <td><img src="/img/mount1.jpg"></td>
+    <td><img src="./img/ballard.jpg"></td>
+    <td><img src="./img/pikemarket.jpg"></td>
+    <td><img src="./img/realestate.jpg"></td>
+    <td><img src="./img/mount1.jpg"></td>
   </tr>
 </table>
 
