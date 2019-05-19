@@ -1,4 +1,4 @@
-## ARIC 2018
+## ARIC 2019
 
 <table>
   <tr>
@@ -9,8 +9,8 @@
         2nd ACM SIGSPATIAL
     	  International Workshop on Advances
         in Resilient and Intelligent Cities  
-        (ARIC 2018)
-        Tuesday, November 6, 2018 
+        (ARIC 2019)
+        Tuesday, November 5, 2019 
         Seattle, Washington, USA 
     </td>
   </tr>
