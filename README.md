@@ -60,13 +60,41 @@ Program Chair: Xinyue Ye, New Jersey Institute of Technology (xinyue.ye@njit.edu
 Program Chair: Shima Mohebbi, University of Oklahoma (mohebbi@ou.edu)  
 Program Co-Chair: Guangtao Fu, University of Exeter (G.Fu@exter.ac.uk)  
 
-### Agenda
+__Agenda__ - The agenda will be available in early October
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+__Venue__ - The workshop will be held at the [Holiday Inn at the Mart Plaza](https://www.martplaza.com/). The address of the hotel is: __350 W Mart Center Dr, Chicago, IL 60654 USA__.
 
-### Venue
+__Keynote Speakers__  
+(TBC-to be confirmed)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Program Committee
+Pete Beckman, Northwestern-Argonne Institute for Science and Engineering, USA (TBC)  
+Katrina Brown, University of Exeter, UK (TBC)  
+Hua Cai, Purdue University, IN, USA (TBC)  
+Jerry Gao, San Jose State University, CA, USA (TBC)  
+Marlon Pierce, Indiana University, IN, USA  
+Dong Wang, University of Notre Dame, IN, USA (TBC)  
+Ouri Wilson, University of Illinois, IL, USA (TBC)  
+Christa Brelsford, Oak Ridge National Laboratory  
+Bing She, University of Michigan, MI, USA  
+Roger Wang, Rutgers University, NJ, USA  
+Shaohua Wang, New Jersey Institute of Technology, NJ, USA  
 
-### Keynote Speakers
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### ORGANIZER BIOGRAPHIES:
+__Bandana Kar__: Bandana Kar is a Research Scientist in the Geographic Information Science and Technology Group at Oak Ridge National Laboratory. She was an Associate Professor in the Department of Geography and Geology at University of Southern Mississippi, Hattiesburg, MS. She has expertise are in image processing, spatial and temporal data analytics, geo-spatial and temporal modeling, damage and infrastructure resilience assessment. Her research focuses on integrating geospatial and computational sciences for situational awareness and building of resilient infrastructures and cities. She has been funded by the Department of Homeland Security, National Science Foundation and Department of Defense to conduct research in risk communication and economic resilience using big data. She is the lead organizer for AAG’s Hazards and GIScience sessions, and co-organized 2017 GeoAI Workshop. She is a member of the organizing committee for 2018 and 2019 ASPRS; and has been part of the program committee for annual meetings of Gateways conference since 2016.  
+ 
+__Olufemi A__. Omitaomu: Olufemi (Femi) A. Omitaomu is a Senior Research Scientist in the Geographic Information Science and Technology Group at Oak Ridge National Laboratory (ORNL). He is also a team lead for Critical Infrastructure and Climate Change research in the group. In addition, he is the theme lead for the Urban Resiliency research within the Urban Dynamics Institute at ORNL. He is a scientific member of the Climate Change Science Institute at ORNL. Dr. Omitaomu is also a joint ORNL-UT Associate Professor in the Department of Industrial and Systems Engineering; and an Adjunct Faculty in the Department of Civil and Environmental Engineering at the University of Tennessee. His expertise includes applied artificial intelligence, statistical data mining, and modeling and simulation with applications in infrastructure systems, energy systems, and emergency response.
+ 
+__Xinyue Ye__: Xinyue Ye is an Associate Professor in College of Computing at New Jersey Institute of Technology, where he also directs Urban Informatics & Spatial Computing Lab. He integrates social science and computational science towards information visualization, urban informatics and spatial social network analysis – the mapping of relationships among individuals in virtual, perceived, and physical networks. He models the space-time perspective of socioeconomic inequality and human dynamics for applications in various domains, such as economic development, disaster response, transportation and land use, public health and urban crime. He won the national first-place research award from University Economic Development Association in 2011 and received the Regional Development and Planning emerging scholar award from American Association of Geographers in 2012. His work has been funded by the National Science Foundation, National Institute of Justice, Department of Commerce, and Department of Energy.
+ 
+__Shima Mohebbi__: Shima Mohebbi is an assistant professor in the School of Industrial and Systems Engineering (ISE) at the University of Oklahoma. She received her PhD in ISE, and her second MS degree in Statistics from the University of Tennessee, and achieved several academic recognitions and fellowships during her graduate studies. She joined the Department of Civil and Environmental Engineering at the University of South Florida for her postdoctoral studies. She was also a visiting scholar in the University of Exeter’s center for water systems, UK, in summer 2017. Dr. Mohebbi’s research interests include algorithmic game theory, simulation-optimization models, and high dimensional data mining with applications in resilient infrastructure systems and smart cities.
+ 
+__Guangtao Fu__: Guangtao Fu is an Associate Professor of Water Infrastructure Systems at the Centre for Water Systems, University of Exeter and currently a Royal Society Industry Fellow working with Northumbrian Water Limited. His research focuses on conducting fundamental and applied research at the interface between water infrastructure systems and decision making by combining simulation, optimization, and information technologies. The main application areas include water supply and distribution, urban drainage, urban wastewater and water resources management.
+ 
+__For further information__ regarding the workshop, please contact __Bandana Kar__ (karb@ornl.gov), __Xinyue Ye__ (xinyue.ye@njit.edu) and __Shima Mohebbi__ (mohebbi@ou.edu).
+ 
+__For more information__ about the workshop registration and accommodations, please visit the following sites:
+Registration - [https://sigspatial2019.sigspatial.org/registration//](https://sigspatial2019.sigspatial.org/registration//)
+ 
+Venue and accommodations: [https://sigspatial2019.sigspatial.org/venue-and-accommodations/](https://sigspatial2019.sigspatial.org/venue-and-accommodations/)
+
