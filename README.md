@@ -9,7 +9,7 @@
         in Resilient and Intelligent Cities  
         (ARIC 2019)</font></b>
         Tuesday, November 5, 2019 
-        Seattle, Washington, USA 
+        Chicago, Illinois, USA 
     </td>
   </tr>
   <tr>
