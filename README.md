@@ -92,7 +92,8 @@ Jerry Gao, San Jose State University, CA, USA (TBC)
 Marlon Pierce, Indiana University, IN, USA  
 Dong Wang, University of Notre Dame, IN, USA (TBC)  
 Ouri Wilson, University of Illinois, IL, USA (TBC)  
-Christa Brelsford, Oak Ridge National Laboratory  
+Christa Brelsford, Oak Ridge National Laboratory, TN, USA 
+Weisi Guo, University of Warwick, UK 
 Bing She, University of Michigan, MI, USA  
 Roger Wang, Rutgers University, NJ, USA  
 Shaohua Wang, New Jersey Institute of Technology, NJ, USA  
