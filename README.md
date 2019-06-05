@@ -85,13 +85,18 @@ __Keynote Speakers__
 (TBC-to be confirmed)
 
 ### Program Committee
-Pete Beckman, Northwestern-Argonne Institute for Science and Engineering, USA (TBC)  
-Katrina Brown, University of Exeter, UK (TBC)  
-Hua Cai, Purdue University, IN, USA (TBC)  
-Jerry Gao, San Jose State University, CA, USA (TBC)  
-Marlon Pierce, Indiana University, IN, USA  
-Dong Wang, University of Notre Dame, IN, USA (TBC)  
-Ouri Wilson, University of Illinois, IL, USA (TBC)  
+Bandana Kar, Oak Ridge National Laboratory, TN, USA(TBC)  
+Guangtao FU, University of Exeter, UK(TBC)  
+Shima Mohebbi, University of Oklahoma, OK, USA(TBC)  
+Philip James, Newcastle University, UK(TBC)  
+Mark Raymond, University of Oklahoma, OK, USA(TBC)  
+Olufemi Omitaomu, Oak Ridge National Laboratory, TN, USA(TBC)  
+Christa Brelsford, Oak Ridge National Laboratory, TN, USA(TBC)  
+Husain Aziz, Oak Ridge National Laboratory, TN, USA(TBC)  
+Greg Zacharewicz, IMS Laboratory, Bordeaux, France(TBC)  
+Xinyue Ye,  New Jersey Institute of Technology, NJ, USA(TBC)  
+Pierre Emmanuel, University of Oklahoma, OK, USA(TBC)  
+Walid Saad, Virginia Tech, VA, USA(TBC)  
 Christa Brelsford, Oak Ridge National Laboratory, TN, USA  
 Weisi Guo, University of Warwick, UK  
 Bing She, University of Michigan, MI, USA  
@@ -99,7 +104,7 @@ Roger Wang, Rutgers University, NJ, USA
 Shaohua Wang, New Jersey Institute of Technology, NJ, USA  
 
 ### ORGANIZER BIOGRAPHIES:
-__Bandana Kar__: Bandana Kar is a Research Scientist in the Geographic Information Science and Technology Group at Oak Ridge National Laboratory. She was an Associate Professor in the Department of Geography and Geology at University of Southern Mississippi, Hattiesburg, MS. She has expertise are in image processing, spatial and temporal data analytics, geo-spatial and temporal modeling, damage and infrastructure resilience assessment. Her research focuses on integrating geospatial and computational sciences for situational awareness and building of resilient infrastructures and cities. She has been funded by the Department of Homeland Security, National Science Foundation and Department of Defense to conduct research in risk communication and economic resilience using big data. She is the lead organizer for AAG’s Hazards and GIScience sessions, and co-organized 2017 GeoAI Workshop. She is a member of the organizing committee for 2018 and 2019 ASPRS; and has been part of the program committee for annual meetings of Gateways conference since 2016.  
+__Bandana Kar__: Bandana Kar is a R & D Staff in the National Security Emerging Technologies Division at Oak Ridge National Laboratory. She was an Associate Professor in the Department of Geography and Geology at University of Southern Mississippi, Hattiesburg, MS. Her research focuses on integrating geospatial and computational sciences along with big data for situational awareness and assessment of resilience of infrastructures and cities. Her expertise includes image processing, spatio-temporal modeling and analytics, optimization and cyberGIS with applications in urban systems, extreme weather events, and infrastructure interdependency modeling. She has been funded by the Department of Homeland Security, National Science Foundation, Department of Defense and National Aeronautics and Space Administration. She received the Regional Development and Planning emerging scholar award from American Association of Geographers in 2019 and is the Social and Behavioral Science Editor for IEEE-Natural Hazards Review.
  
 __Olufemi A. Omitaomu__: Olufemi (Femi) A. Omitaomu is a Senior R&D Staff in the Modeling & Simulation Group at Oak Ridge National Laboratory (ORNL). He is also a joint ORNL-UT Associate Professor in the Department of Industrial and Systems Engineering; and an Adjunct Faculty in the Department of Civil and Environmental Engineering at the University of Tennessee. His expertise includes systems engineering, artificial intelligence, systems modeling, and large-scale simulation with applications in energy systems, urban systems, and health systems. He has been funded by the Department of Energy, the National Geospatial-Intelligence Agency, and the Department of Veterans Affairs. He is the Guest Editor for the upcoming Special Issue of Smart Cities titled Applied Artificial Intelligence in Energy Systems.
  
