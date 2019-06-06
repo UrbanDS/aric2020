@@ -58,7 +58,7 @@ This 2nd International workshop on Advances in Resilient and Intelligent Cities 
 Manuscripts should be submitted in PDF format and formatted using the ACM camera-ready templates available
 at [http://www.acm.org/publications/proceedings-template](http://www.acm.org/publications/proceedings-template).
   
-<a href="https://easychair.org/account/signin?l=ykXVc077LRLMXWQTTxp0aa" class="button">Submit a Paper</a>
+<a href="https://easychair.org/cfp/ARIC2019" class="button">Submit a Paper</a>
 
 Full research papers should present a specific problem or topic and discuss methodology and findings along with future research directions. Short research papers should demonstrate existing methods, toolkits, and best practices for building intelligent and resilient cities. Vision papers should be more situational in their coverage and focus on future directions while identifying gaps and challenges for designing intelligent cities under the resilient framework by addressing existing policy, sociological, and technological challenges. All submitted papers will be peer-reviewed to ensure the quality and clarity of the research.
 
@@ -85,23 +85,22 @@ __Keynote Speakers__
 (TBC-to be confirmed)
 
 ### Program Committee
-Bandana Kar, Oak Ridge National Laboratory, TN, USA(TBC)  
-Guangtao FU, University of Exeter, UK(TBC)  
-Shima Mohebbi, University of Oklahoma, OK, USA(TBC)  
-Philip James, Newcastle University, UK(TBC)  
-Mark Raymond, University of Oklahoma, OK, USA(TBC)  
-Olufemi Omitaomu, Oak Ridge National Laboratory, TN, USA(TBC)  
-Christa Brelsford, Oak Ridge National Laboratory, TN, USA(TBC)  
-Husain Aziz, Oak Ridge National Laboratory, TN, USA(TBC)  
-Greg Zacharewicz, IMS Laboratory, Bordeaux, France(TBC)  
-Xinyue Ye,  New Jersey Institute of Technology, NJ, USA(TBC)  
-Pierre Emmanuel, University of Oklahoma, OK, USA(TBC)  
-Walid Saad, Virginia Tech, VA, USA(TBC)  
+Husain Aziz, Oak Ridge National Laboratory, TN, USA  
 Christa Brelsford, Oak Ridge National Laboratory, TN, USA  
+Pierre Emmanuel, University of Oklahoma, OK, USA  
+Guangtao FU, University of Exeter, UK  
 Weisi Guo, University of Warwick, UK  
+Philip James, Newcastle University, UK  
+Bandana Kar, Oak Ridge National Laboratory, TN, USA  
+Shima Mohebbi, University of Oklahoma, OK, USA  
+Olufemi Omitaomu, Oak Ridge National Laboratory, TN, USA  
+Mark Raymond, University of Oklahoma, OK, USA  
+Walid Saad, Virginia Tech, VA, USA  
 Bing She, University of Michigan, MI, USA  
 Roger Wang, Rutgers University, NJ, USA  
 Shaohua Wang, New Jersey Institute of Technology, NJ, USA  
+Xinyue Ye,  New Jersey Institute of Technology, NJ, USA  
+Greg Zacharewicz, IMS Laboratory, Bordeaux, France  
 
 ### ORGANIZER BIOGRAPHIES:
 __Bandana Kar__: Bandana Kar is a R & D Staff in the National Security Emerging Technologies Division at Oak Ridge National Laboratory. She was an Associate Professor in the Department of Geography and Geology at University of Southern Mississippi, Hattiesburg, MS. Her research focuses on integrating geospatial and computational sciences along with big data for situational awareness and assessment of resilience of infrastructures and cities. Her expertise includes image processing, spatio-temporal modeling and analytics, optimization and cyberGIS with applications in urban systems, extreme weather events, and infrastructure interdependency modeling. She has been funded by the Department of Homeland Security, National Science Foundation, Department of Defense and National Aeronautics and Space Administration. She received the Regional Development and Planning emerging scholar award from American Association of Geographers in 2019 and is the Social and Behavioral Science Editor for IEEE-Natural Hazards Review.
