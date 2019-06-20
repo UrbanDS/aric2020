@@ -88,8 +88,10 @@ __Keynote Speakers__
 Husain Aziz, Oak Ridge National Laboratory, TN, USA  
 Christa Brelsford, Oak Ridge National Laboratory, TN, USA  
 Pierre Emmanuel, University of Oklahoma, OK, USA  
+Hongchao Fan, Norwegian University of Science and Technology, Norway  
 Guangtao Fu, University of Exeter, UK  
 Weisi Guo, University of Warwick, UK  
+Haosheng Huang, University of Zurich (UZH), Switzerland  
 Philip James, Newcastle University, UK  
 Bandana Kar, Oak Ridge National Laboratory, TN, USA  
 Shima Mohebbi, University of Oklahoma, OK, USA  
