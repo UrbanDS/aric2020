@@ -93,6 +93,7 @@ Guangtao Fu, University of Exeter, UK
 Weisi Guo, University of Warwick, UK  
 Haosheng Huang, University of Zurich (UZH), Switzerland  
 Philip James, Newcastle University, UK  
+Peng Jia, University of Twente, Netherlands  
 Bandana Kar, Oak Ridge National Laboratory, TN, USA  
 Shima Mohebbi, University of Oklahoma, OK, USA  
 Olufemi Omitaomu, Oak Ridge National Laboratory, TN, USA  
