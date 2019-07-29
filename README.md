@@ -66,7 +66,7 @@ Full research papers should present a specific problem or topic and discuss meth
 
 _Paper submission_: August 31, 2019  
 _Acceptance decision_: September 21, 2019  
-_Camera ready version_: October 10, 2019  
+_Camera ready version_: September 30, 2019  
 _Workshop date_: November 5, 2019  
 
 ### Workshop Organizers
