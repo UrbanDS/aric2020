@@ -85,6 +85,7 @@ __Keynote Speakers__
 (TBC-to be confirmed)
 
 ### Program Committee
+Clio Andris, Georgia Institute of Technology, USA  
 Husain Aziz, Oak Ridge National Laboratory, TN, USA  
 Christa Brelsford, Oak Ridge National Laboratory, TN, USA  
 Pierre Emmanuel, University of Oklahoma, OK, USA  
@@ -104,6 +105,12 @@ Roger Wang, Rutgers University, NJ, USA
 Shaohua Wang, New Jersey Institute of Technology, NJ, USA  
 Xinyue Ye,  New Jersey Institute of Technology, NJ, USA  
 Greg Zacharewicz, IMS Laboratory, Bordeaux, France  
+Bing She, University of Michigan, USA  
+Mark Raymond, University of Oklahoma, USA  
+Peng Jia, University of Twente, Netherlands  
+Weisi Guo, University of Warwick, UK  
+Haosheng Huang, University of Zurich, Switzerland  
+Walid Saad, Virginia Tech, USA  
 
 ### ORGANIZER BIOGRAPHIES:
 __Bandana Kar__: Bandana Kar is a R & D Staff in the National Security Emerging Technologies Division at Oak Ridge National Laboratory. She was an Associate Professor in the Department of Geography and Geology at University of Southern Mississippi, Hattiesburg, MS. Her research focuses on integrating geospatial and computational sciences along with big data for situational awareness and assessment of resilience of infrastructures and cities. Her expertise includes image processing, spatio-temporal modeling and analytics, optimization and cyberGIS with applications in urban systems, extreme weather events, and infrastructure interdependency modeling. She has been funded by the Department of Homeland Security, National Science Foundation, Department of Defense and National Aeronautics and Space Administration. She received the Regional Development and Planning emerging scholar award from American Association of Geographers in 2019 and is the Social and Behavioral Science Editor for IEEE-Natural Hazards Review.
