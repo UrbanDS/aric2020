@@ -141,5 +141,5 @@ Registration - [https://sigspatial2019.sigspatial.org/registration//](https://si
  
 Venue and accommodations: [https://sigspatial2019.sigspatial.org/venue-and-accommodations/](https://sigspatial2019.sigspatial.org/venue-and-accommodations/)
   
-###PROGRAM SCHEDULE  
-Download Link - [ARIC_2019_programme_V1.docx](./data/ARIC_2019_programme_V1.docx)  
+### PROGRAM SCHEDULE  
+Download Link - [ARIC_2019_programme_V1.docx](https://github.com/zhawhjw/Website/blob/master/data/ARIC_2019_programme_V1.docx?raw=true)  
