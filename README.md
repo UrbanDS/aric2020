@@ -140,4 +140,6 @@ __For more information__ about the workshop registration and accommodations, ple
 Registration - [https://sigspatial2019.sigspatial.org/registration//](https://sigspatial2019.sigspatial.org/registration//)
  
 Venue and accommodations: [https://sigspatial2019.sigspatial.org/venue-and-accommodations/](https://sigspatial2019.sigspatial.org/venue-and-accommodations/)
-
+  
+###PROGRAM SCHEDULE  
+Download Link - [ARIC_2019_programme_V1.docx](./data/ARIC_2019_programme_V1.docx)  
