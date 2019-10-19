@@ -82,7 +82,18 @@ __Agenda__ - The agenda will be available in early October
 __Venue__ - The workshop will be held at the [Holiday Inn at the Mart Plaza](https://www.martplaza.com/). The address of the hotel is: __350 W Mart Center Dr, Chicago, IL 60654 USA__.
 
 __Keynote Speakers__  
-(TBC-to be confirmed)
+Raj Sankaran  
+  
+Keynote Title: Array of Things: A Fitbit for a City  
+Abstract:  
+  
+The Array of Things (AoT) is a research project funded by the National Science Foundation (NSF) and a partnership between the City of Chicago, University of Chicago, and Argonne National Laboratory (ANL). Built on ANL's Waggle Platform, the AoT project aims to design, develop, and deploy a novel wireless sensor platform with advanced edge computing capabilities to enable a new breed of sensor-driven environmental science and smart city research in Chicago and other cities in the US and abroad. This talk will discuss the various technical and logistical aspects of the Array of Things urban deployment, the challenges in building a smart city and providing open data with urban sensors, and the future directions.  
+  
+Into/Bio:  
+  
+Dr. Raj Sankaran is a member of the technical staff at Argonne National Laboratory. He has a PhD in Electrical and Computer Engineering and is interested in research and development in topics related to Edge Computing, Attentive Sensing, and Embedded Computing Systems. Through his research pursuits at Argonne, Raj collaborates closely with Environmental, Urban, High-Performance Computing and Weather/Climate researchers. Raj co-leads the Waggle Edge-Computing research platform and the tech-team of the Array of Things project.  
+  
+headshot if needed: https://www.mcs.anl.gov/~rajesh/img/Rajesh_Sankaran.jpg  
 
 ### Program Committee
 Clio Andris, Georgia Institute of Technology, USA  
