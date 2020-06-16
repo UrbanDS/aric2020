@@ -60,7 +60,8 @@ This 3rd International Workshop on ARIC invites the following three types of pap
 
 3.	Vision or statement paper: 2 pages. These papers should be more situational in their coverage and focus on future directions while identifying gaps and challenges for designing intelligent cities under the resilient framework by addressing existing policy, sociological, and technological challenges.
 
-Manuscripts must be submitted in PDF format using the ACM camera-ready templates available at https://www.acm.org/publications/proceedings-template(http://www.acm.org/publications/proceedings-template). **This year the workshop will provide two student paper awards.  **
+Manuscripts must be submitted in PDF format using the ACM camera-ready templates available at [https://www.acm.org/publications/proceedings-template](http://www.acm.org/publications/proceedings-template). 
+__This year the workshop will provide two student paper awards.__
   
 <a href="https://easychair.org/cfp/ARIC2020" class="button">Submit a Paper</a>
 
@@ -68,15 +69,17 @@ Full research papers should present a specific problem or topic and discuss meth
 
 ### Deadlines
 
-_Paper submission_: August 15th, 2020  
+__Paper submission__: August 15th, 2020  
 
-_Acceptance decision_: September 15th, 2020
+__Acceptance decision__: September 15th, 2020
 
-_Camera ready version_: September 30th, 2020  
+__Camera ready version__: September 30th, 2020  
 
 ### Workshop Agenda 
 
-TO BE RELEASED IN OCTOBER 2020. **Paper awards will be announced during the workshop following the presentations. **
+- TO BE RELEASED IN OCTOBER 2020. 
+
+- Paper awards will be announced during the workshop following the presentations. 
 
 ### Workshop Registration 
 
