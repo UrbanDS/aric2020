@@ -69,12 +69,14 @@ Full research papers should present a specific problem or topic and discuss meth
 ### Deadlines
 
 _Paper submission_: August 15th, 2020  
+
 _Acceptance decision_: September 15th, 2020
+
 _Camera ready version_: September 30th, 2020  
 
 ### Workshop Agenda 
 
-- TO BE RELEASED IN OCTOBER 2020. **Paper awards will be announced during the workshop following the presentations. **
+TO BE RELEASED IN OCTOBER 2020. **Paper awards will be announced during the workshop following the presentations. **
 
 ### Workshop Registration 
 
@@ -92,9 +94,13 @@ Authors and participants will receive information about workshop format as well 
 General Chair: Bandana Kar, Oak Ridge National Laboratory (karb@ornl.gov)
 
 ### Program Co-Chairs: 
+
 Bandana Kar, Oak Ridge National Laboratory (karb@ornl.gov)
+
 Xinyue Ye, Texas A & M University (xinyue.ye@tamu.edu)
+
 Shima Mohebbi, George Mason University (smohebbi@gmu.edu)
+
 Guangtao Fu, University of Exeter (G.Fu@exter.ac.uk)
 
 
