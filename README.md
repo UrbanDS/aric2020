@@ -106,6 +106,51 @@ Shima Mohebbi, George Mason University (smohebbi@gmu.edu)
 
 Guangtao Fu, University of Exeter (G.Fu@exter.ac.uk)
 
+### Program Committee:
+
+Clio Andris, Georgia Institute of Technology (clio@gatech.edu)
+
+Husain Aziz, Kansas State University (azizhusain@ksu.edu)
+
+Zhiqiang Chen, University of Missouri-Kansas City (chenzhiq@umkc.edu)
+
+Yao-Yi Chiang, University of Southern California (yaoyic@usc.edu)
+
+Hongchao Fan, Norwegian Institute of Technology (hongchao.fan@ntnu.no)
+
+Weisi Guo, University of Warwick, UK (Weisi.Guo@warwick.ac.uk)
+
+Qunying Huang, University of Wisconsin-Madison (qhuang46@wisc.edu)
+
+Xiao Huang, University of Arkansas (xh1@email.sc.edu)
+
+Zhenlong Li, University of South Carolina (ZHENLONG@mailbox.sc.edu)
+
+Ian McRae, University of California, Berkeley (ikmcrae@gmail.com)
+
+Bing She, University of Michigan (bingshe@umich.edu)
+
+Subrata K. Paul, Indian Institute of Technology-Shibpur (subrata2412@gmail.com)
+
+Daoqin Tong, Arizona State University (Daoqin.Tong@asu.edu)
+
+Roger Wang, Rutgers University (rq.wang@rutgers.edu)
+
+Shaohua Wang, New Jersey Institute of Technology (davidshwang.ca@gmail.com)
+
+Liping Yang, University of New Mexico (lipingyang@unm.edu)
+
+Siyu Yu, Texas A & M University (yusiyu_1989@tamu.edu)
+
+Yihong Yuan, Texas State University (yuan@txstate.edu)
+
+Fan Zhang, Massachusetts Institute of Technology (zhangfan@mit.edu)
+
+Wenwen Zhang, Rutgers University (wenwen.zhangvt.edu)
+
+Zhe Zhang, Texas A & M University (zhezhang@tamu.edu)
+
+Lei Zou, Texas A & M University (lzou@tamu.edu)
 
 ### Student Representative 
 
@@ -114,6 +159,8 @@ Avipsa Roy, Arizona State University (aroy29@asu.edu)
 Mayra Rodriguez Bennadji, University of Exeter (mr604@exeter.ac.uk) 
 
 Jiaxin Du, Texas A&M University (jiaxin.du@tamu.edu)
+
+Avipsa Roy, Arizona State University (aroy29@asu.edu)
 
 ### Organizer Biographies
 
