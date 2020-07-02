@@ -134,6 +134,8 @@ Subrata K. Paul, Indian Institute of Technology-Shibpur (subrata2412@gmail.com)
 
 Daoqin Tong, Arizona State University (Daoqin.Tong@asu.edu)
 
+Mingshu Wang, University of Twente (mingshu.wang@utwente.nl)
+
 Roger Wang, Rutgers University (rq.wang@rutgers.edu)
 
 Shaohua Wang, New Jersey Institute of Technology (davidshwang.ca@gmail.com)
@@ -151,8 +153,6 @@ Wenwen Zhang, Rutgers University (wenwen.zhangvt.edu)
 Zhe Zhang, Texas A & M University (zhezhang@tamu.edu)
 
 Lei Zou, Texas A & M University (lzou@tamu.edu)
-
-Mingshu Wang, University of Twente (mingshu.wang@utwente.nl)
 
 ### Student Representative 
 
