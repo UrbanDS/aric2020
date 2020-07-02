@@ -154,7 +154,7 @@ Lei Zou, Texas A & M University (lzou@tamu.edu)
 
 ### Student Representative 
 
-Avipsa Roy, Arizona State University (aroy29@asu.edu)
+Babak Aslani, George Mason University (baslani@gmu.edu)
 
 Mayra Rodriguez Bennadji, University of Exeter (mr604@exeter.ac.uk) 
 
