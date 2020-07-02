@@ -152,6 +152,8 @@ Zhe Zhang, Texas A & M University (zhezhang@tamu.edu)
 
 Lei Zou, Texas A & M University (lzou@tamu.edu)
 
+Mingshu Wang, University of Twente (mingshu.wang@utwente.nl)
+
 ### Student Representative 
 
 Babak Aslani, George Mason University (baslani@gmu.edu)
