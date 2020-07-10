@@ -154,6 +154,14 @@ Zhe Zhang, Texas A & M University (zhezhang@tamu.edu)
 
 Lei Zou, Texas A & M University (lzou@tamu.edu)
 
+Piyush Patnaik, Syncsort, (piyush_patnik@yahoo.com)
+
+Subhraroop Ghosh, ImagecatInc. (sg@imagecatinc.com)
+
+Sarbeswar Praharaj, Arizona State University (s.praharaj@asu.edu)
+
+Peng Jia, International Institute of Spatial lifecourse Epidemiology (ISLE), (jiapengff@hotmail.com)
+
 ### Student Representative 
 
 Babak Aslani, George Mason University (baslani@gmu.edu)
