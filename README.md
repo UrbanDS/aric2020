@@ -108,59 +108,63 @@ Guangtao Fu, University of Exeter (G.Fu@exter.ac.uk)
 
 ### Program Committee:
 
-Clio Andris, Georgia Institute of Technology (clio@gatech.edu)
+Clio	Andris	,	Georgia	Institute	of	Technology	(clio@gatech.edu)	
 
-Husain Aziz, Kansas State University (azizhusain@ksu.edu)
+Husain	Aziz	,	Kansas	State	University	(azizhusain@ksu.edu)		
 
-Zhiqiang Chen, University of Missouri-Kansas City (chenzhiq@umkc.edu)
+Zhiqiang	Chen	,	University	of	Missouri-Kansas	City	(chenzhiq@umkc.edu)		
 
-Yao-Yi Chiang, University of Southern California (yaoyic@usc.edu)
+Yao-Yi	Chiang	,	University	of	Southern	California	(yaoyic@usc.edu)			
 
-Hongchao Fan, Norwegian Institute of Technology (hongchao.fan@ntnu.no)
+Hongchao	Fan	,	Norwegian	Institute	of	Technology	(hongchao.fan@ntnu.no)		
 
-Weisi Guo, University of Warwick, UK (Weisi.Guo@warwick.ac.uk)
+Subhraroop	Ghosh	,	ImagecatInc.	(sg@imagecatinc.com)							
 
-Qunying Huang, University of Wisconsin-Madison (qhuang46@wisc.edu)
+Weisi	Guo	,	University	of	Warwick	UK	(Weisi.Guo@warwick.ac.uk)				
 
-Xiao Huang, University of Arkansas (xh1@email.sc.edu)
+Qunying	Huang	,	University	of	Wisconsin-Madison	(qhuang46@wisc.edu)			
 
-Zhenlong Li, University of South Carolina (ZHENLONG@mailbox.sc.edu)
+Xiao	Huang	,	University	of	Arkansas	(xh1@email.sc.edu)					
 
-Ian McRae, University of California, Berkeley (ikmcrae@gmail.com)
+Peng	Jia	,	International	Institute	of	Spatial	lifecourse	Epidemiology	(ISLE)	(jiapengff@hotmail.com)	
 
-Bing She, University of Michigan (bingshe@umich.edu)
+Subrata	K.	,	Paul	Indian	Institute	of	Technology-Shibpur	(subrata2412@gmail.com)			
 
-Subrata K. Paul, Indian Institute of Technology-Shibpur (subrata2412@gmail.com)
+Zhenlong	Li	,	University	of	South	Carolina	(ZHENLONG@mailbox.sc.edu)				
 
-Daoqin Tong, Arizona State University (Daoqin.Tong@asu.edu)
+Ian	McRae	,	University	of	California	Berkeley	(ikmcrae@gmail.com)				
 
-Mingshu Wang, University of Twente (mingshu.wang@utwente.nl)
+Piyush	Patnaik	,	Syncsort	(piyush_patnik@yahoo.com)							
 
-Roger Wang, Rutgers University (rq.wang@rutgers.edu)
+Sarbeswar	Praharaj	,	Arizona	State	University	(s.praharaj@asu.edu)		
 
-Shaohua Wang, New Jersey Institute of Technology (davidshwang.ca@gmail.com)
+Bing	She	,	University	of	Michigan	(bingshe@umich.edu)					
 
-Liping Yang, University of New Mexico (lipingyang@unm.edu)
+Daoqin	Tong	,	Arizona	State	University	(Daoqin.Tong@asu.edu)				
 
-Siyu Yu, Texas A & M University (yusiyu_1989@tamu.edu)
+Mingshu	Wang	,	University	of	Twente	(mingshu.wang@utwente.nl)				
 
-Yihong Yuan, Texas State University (yuan@txstate.edu)
+Roger	Wang	,	Rutgers	University	(rq.wang@rutgers.edu)						
 
-Fan Zhang, Massachusetts Institute of Technology (zhangfan@mit.edu)
+Shaohua	Wang	,	New	Jersey	Institute	of	Technology	(davidshwang.ca@gmail.com)	
 
-Wenwen Zhang, Rutgers University (wenwen.zhangvt.edu)
+Liping	Yang	,	University	of	New	Mexico	(lipingyang@unm.edu)				
 
-Zhe Zhang, Texas A & M University (zhezhang@tamu.edu)
+Siyu	Yu	,	Texas	A	&	M	University	(yusiyu_1989@tamu.edu)			
 
-Lei Zou, Texas A & M University (lzou@tamu.edu)
+Yihong	Yuan	,	Texas	State	University	(yuan@txstate.edu)					
 
-Piyush Patnaik, Syncsort, (piyush_patnik@yahoo.com)
+Gregory	Zacharewicz	,	National	Institute	of	Mines	and	Telecommunications	Alès	France	(Gregory.Zacharewicz@mines-ales.fr)
 
-Subhraroop Ghosh, ImagecatInc. (sg@imagecatinc.com)
+Fan	Zhang	,	Massachusetts	Institute	of	Technology	(zhangfan@mit.edu)				
 
-Sarbeswar Praharaj, Arizona State University (s.praharaj@asu.edu)
+Wenwen	Zhang	,	Rutgers	University	(wenwen.zhangvt.edu)						
 
-Peng Jia, International Institute of Spatial lifecourse Epidemiology (ISLE), (jiapengff@hotmail.com)
+Zhe	Zhang	,	Texas	A	&	M	University	(zhezhang@tamu.edu)			
+
+Lei	Zou	,	Texas	A	&	M	University	(lzou@tamu.edu)			
+
+
 
 ### Student Representative 
 
