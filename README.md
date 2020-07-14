@@ -138,6 +138,8 @@ Piyush	Patnaik	,	Syncsort	(piyush_patnik@yahoo.com)
 
 Sarbeswar	Praharaj	,	Arizona	State	University	(s.praharaj@asu.edu)		
 
+Mark Raymond, University of Oklahoma, Norman (mraymond@ou.edu)
+
 Bing	She	,	University	of	Michigan	(bingshe@umich.edu)					
 
 Daoqin	Tong	,	Arizona	State	University	(Daoqin.Tong@asu.edu)				
