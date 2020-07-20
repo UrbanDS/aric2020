@@ -134,6 +134,8 @@ Zhenlong	Li	,	University	of	South	Carolina	(ZHENLONG@mailbox.sc.edu)
 
 Ian	McRae	,	University	of	California	Berkeley	(ikmcrae@gmail.com)				
 
+Christine Prouty, Senior Manager of Infrastructure Initiatives, American Society of Civil Engineers (ASCE) (cprouty@asce.org )
+
 Piyush	Patnaik	,	Syncsort	(piyush_patnik@yahoo.com)							
 
 Sarbeswar	Praharaj	,	Arizona	State	University	(s.praharaj@asu.edu)		
