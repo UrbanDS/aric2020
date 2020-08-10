@@ -68,8 +68,11 @@ __This year the workshop will provide two student paper awards.__
 Full research papers should present a specific problem or topic and discuss methodology and findings along with future research directions. Short research papers should demonstrate existing methods, toolkits, and best practices for building intelligent and resilient cities. Vision papers should be more situational in their coverage and focus on future directions while identifying gaps and challenges for designing intelligent cities under the resilient framework by addressing existing policy, sociological, and technological challenges. All submitted papers will be peer-reviewed to ensure the quality and clarity of the research.
 
 ### Deadlines
+
 (Updated at August 10th, 2020. The paper submission date is extended. Other date might be adjusted accordingly)
-~~__Paper submission__: August 15th, 2020  ~~
+
+~~__Paper submission__: August 15th, 2020  (discarded)~~
+
 __Paper submission__: August 31st, 2020
 
 __Acceptance decision__: September 15th, 2020
