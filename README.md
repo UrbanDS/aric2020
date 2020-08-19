@@ -91,7 +91,7 @@ information can be found [here](https://sigspatial2020.sigspatial.org/registrati
 
 ### Workshop Format
 
-Because of COVID-19, the final format of the workshop is dependent on the Conference Organizers’ decision. For more information, please visit the [ACM SIGSPATIAL Conference website](https://sigspatial2020.sigspatial.org/). 
+Because of COVID-19, the workshop will be held __Virtually__. For more information, please visit the [ACM SIGSPATIAL Conference website](https://sigspatial2020.sigspatial.org/). 
 
 Authors and participants will receive information about workshop format as well as the venue (if applicable) as soon as we have this information from the conference organizers. 
 
