@@ -69,15 +69,17 @@ Full research papers should present a specific problem or topic and discuss meth
 
 ### Deadlines
 
-(Updated at August 10th, 2020. The paper submission date is extended. Other date might be adjusted accordingly)
+(Updated at August 31st, 2020. The paper submission date is extended. Other dates were adjusted accordingly)
 
-~~__Paper submission__: August 15th, 2020  (discarded)~~
+~~__Paper submission__: August 15th, 2020~~
 
-__Paper submission__: August 31st, 2020
+~~__Paper submission__: August 31st, 2020~~
 
-__Acceptance decision__: September 15th, 2020
+(Extended) __Paper submission__: September 11th, 2020
 
-__Camera ready version__: September 30th, 2020  
+__Acceptance decision__: September 25th, 2020
+
+__Camera ready version__: October 9th, 2020
 
 ### Workshop Agenda 
 
@@ -122,7 +124,7 @@ Yao-Yi	Chiang	,	University	of	Southern	California	(yaoyic@usc.edu)
 
 Hongchao	Fan	,	Norwegian	Institute	of	Technology	(hongchao.fan@ntnu.no)		
 
-Subharoop Ghosh	,	ImagecatInc.	(sg@imagecatinc.com)							
+Shubharoop Ghosh	,	Imagecat, Inc.	(sg@imagecatinc.com)							
 
 Weisi	Guo	,	University	of	Warwick	UK	(Weisi.Guo@warwick.ac.uk)				
 
