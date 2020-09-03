@@ -146,6 +146,8 @@ Piyush	Patnaik	,	Syncsort	(piyush_patnik@yahoo.com)
 
 Sarbeswar	Praharaj	,	Arizona	State	University	(s.praharaj@asu.edu)		
 
+Christine Prouty	,	American Society of Civil Engineers	(cprouty@asce.org)
+
 Mark Raymond, University of Oklahoma, Norman (mraymond@ou.edu)
 
 Bing	She	,	University	of	Michigan	(bingshe@umich.edu)					
