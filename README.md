@@ -27,6 +27,11 @@ The advancements in sensor technology and ubiquity of connected devices has enab
 
 The discussion about making a city intelligent and resilient is occurring on two parallel planes. The COVID-19 pandemic has highlighted the difference between smart and resilient cities more so than any other hazard events. For instance, the availability of real-time data and analytics, cloud computing and artificial intelligence (AI) have enabled the development of dashboards and platforms to help with decision-making during this pandemic. Nevertheless, these platforms and dashboards have not been useful in addressing the resilience of the impacted communities as evident from the economic stress that every country is facing around the world. The occurrence of other natural hazards like cyclone Amphan in India or flooding in Michigan due to dam failure during COVID-19 has also brought forth the disconnect between society and technology in this discussion about smart and resilient cities. The challenge now is not only to leverage high performance computing or augmented reality to help with decision making, but also the need to plan and design intelligent cities under the framework of resilience so that online and real-time knowledge discovery from dynamic data streams could be used in conjunction with static data sets to help practitioners and researchers with their policy decisions. 
 
+### Workshop Agenda 
+
+- TO BE RELEASED IN OCTOBER 2020. 
+
+- Paper awards will be announced during the workshop following the presentations. 
 
 ### Objective
 
@@ -48,7 +53,16 @@ This year’s workshop invites papers in the following areas:
 
 Specific attention will be given to papers that focus on resilience (community and infrastructure) in the context of COVID-19, and integrate heterogenous data and real-time computing/analytics/visualization to aid with the pandemic and other co-occurring hazards across the world. 
 
+### Program
 
+#### Smart Cities and Internet of Things
+Presented by Sokwoo Rhee. 
+![SokwooRhee](SokwooRhee photo 2.jpg)
+Internet of Things are unleashing an extraordinary cycle of innovation through smart systems in our everyday life. A lot of cities and communities are striving to deploy advanced solutions that can increase productivity, sustainability, and improve the quality of life for residents. This presentation will provide an overview of the structure of smart cities, global trends, and technical issues and challenges. It will also discuss how NIST is working with private sector stakeholders and other U.S. federal agencies to enables cities and communities worldwide to share ideas, develop comprehensive requirements and solutions to their common issues, and leverage their respective investments.
+
+Sokwoo Rhee is Associate Director for Cyber-Physical Systems (CPS) Innovation at the National Institute of Standards and Technology (NIST), U.S. Department of Commerce. He is leading smart city and Internet of Things (IoT) innovation programs at NIST, including the Global City Teams Challenge (GCTC) and the Smart Cities and Communities Framework (SCCF) program. He previously served as a Presidential Innovation Fellow on CPS, a program by the White House. His work and achievements have been recognized through multiple awards including MIT Technology Review’s Top Innovators under 35. He received his M.S. and Ph.D. in Mechanical Engineering from MIT.
+
+(more programs to be updated)
 
 ### Call for Papers
 
@@ -81,11 +95,6 @@ __Acceptance decision__: September 25th, 2020
 
 __Camera ready version__: October 9th, 2020
 
-### Workshop Agenda 
-
-- TO BE RELEASED IN OCTOBER 2020. 
-
-- Paper awards will be announced during the workshop following the presentations. 
 
 ### Workshop Registration 
 
@@ -198,11 +207,3 @@ __Dr. Shima Mohebbi__ is an assistant professor in the Department of Systems Eng
 
 __Dr. Guangtao Fu__ is a professor of water intelligence at the Centre for Water Systems, University of Exeter, UK. His research focuses on developing and applying computer models, data analytics and artificial intelligence algorithms to tackle urban water challenges related to urban flooding, water supply and urban wastewater management. He is a Royal Society Industry Fellow and Turing Fellow at the Alan Turing Institute. He has been the principal/co-investigator on more than 20 research projects funded by EU, EPSRC, British Council, Royal Society, and Royal Academy of Engineering. He has authored 140 scientific papers and received a number of awards including the 2014 ‘Quentin Martin Best Practice Oriented Paper’ award and 2018 ‘Best Research-Oriented Paper’ award both from the American Society of Civil Engineers. He was elected as a Fellow of the International Water Association (IWA) in July 2018 in recognition of his ‘distinguished contribution to the fields of water science, technology and management’ in the words of IWA.
 
-### Program
-
-#### Smart Cities and Internet of Things
-Presented by Sokwoo Rhee. 
-![SokwooRhee](SokwooRhee photo 2.jpg)
-Internet of Things are unleashing an extraordinary cycle of innovation through smart systems in our everyday life. A lot of cities and communities are striving to deploy advanced solutions that can increase productivity, sustainability, and improve the quality of life for residents. This presentation will provide an overview of the structure of smart cities, global trends, and technical issues and challenges. It will also discuss how NIST is working with private sector stakeholders and other U.S. federal agencies to enables cities and communities worldwide to share ideas, develop comprehensive requirements and solutions to their common issues, and leverage their respective investments.
-
-Sokwoo Rhee is Associate Director for Cyber-Physical Systems (CPS) Innovation at the National Institute of Standards and Technology (NIST), U.S. Department of Commerce. He is leading smart city and Internet of Things (IoT) innovation programs at NIST, including the Global City Teams Challenge (GCTC) and the Smart Cities and Communities Framework (SCCF) program. He previously served as a Presidential Innovation Fellow on CPS, a program by the White House. His work and achievements have been recognized through multiple awards including MIT Technology Review’s Top Innovators under 35. He received his M.S. and Ph.D. in Mechanical Engineering from MIT.
