@@ -64,7 +64,7 @@ Sokwoo Rhee is Associate Director for Cyber-Physical Systems (CPS) Innovation at
 
 
 #### Bringing resiliency and sustianability to our urban envirnments
-![Wilfred](http://urban.systems/wp-content/uploads/2016/06/PortraitMaupin-e1465590986361.png)
+![Wilfred](img/PortraitMaupin.png)
 
 Dr. Pinfold has a passion for emerging technologies that are enabled by leading-edge research in computational and data science, giving him the ability to contribute to major advancements across a wide range of industries, including healthcare, environment, engineering, energy, packaged goods, and the entertainment industry.
 
