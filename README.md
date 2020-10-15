@@ -63,12 +63,20 @@ Internet of Things are unleashing an extraordinary cycle of innovation through s
 Sokwoo Rhee is Associate Director for Cyber-Physical Systems (CPS) Innovation at the National Institute of Standards and Technology (NIST), U.S. Department of Commerce. He is leading smart city and Internet of Things (IoT) innovation programs at NIST, including the Global City Teams Challenge (GCTC) and the Smart Cities and Communities Framework (SCCF) program. He previously served as a Presidential Innovation Fellow on CPS, a program by the White House. His work and achievements have been recognized through multiple awards including MIT Technology Review’s Top Innovators under 35. He received his M.S. and Ph.D. in Mechanical Engineering from MIT. He is leading the Global City Teams Challenge (GCTC) which aims to create a replicable and scalable model for collaborative incubation and deployment of Internet of Things (IoT) and Cyber-Physical Systems (CPS) solutions to improve the quality of life in smart cities around the world.
 
 
-#### Bringing resiliency and sustianability to our urban envirnments
-![Wilfred](img/PortraitMaupin.png)
+#### Public Private Partnerships: Value Capture in Urban Development
+![Wilfred](img/PortraitMaupin.jpg)
 
-Dr. Pinfold has a passion for emerging technologies that are enabled by leading-edge research in computational and data science, giving him the ability to contribute to major advancements across a wide range of industries, including healthcare, environment, engineering, energy, packaged goods, and the entertainment industry.
+By 2050, it is estimated that roughly 70% of the world’s population will live in cities. In an world of high energy climate events, social shocks like SARS, MERS, and COVID, and a need to improve public services and efficient resource-usage there are huge benefits to the effective use of technology in the municipal environments. So why has it been so difficult to deploy technology to improve life and health in the municipal environment. How do public and private entities work together and how do we facilitate value capture in a way that benefits communities while ensuring business incentives are sufficient to encourage investment.
 
-His background includes experience delivering advanced computing platforms from small embedded technologies to large data centers and combining them into Cyber Physical Systems. In a 23-year career at Intel he built experience in engineering, research, strategy, business planning, account management, and marketing. He has held academic positions in schools of engineering and business in both the US and UK, has authored numerous technical reports and papers and participated in project and thesis reviews up to and including PhD. He is a qualified Naval Architect and Structural Engineer, the Portland Mayor’s representative on the Technology Oversight Committee (TOC), a respected and highly sought-after spokesperson and contributor to the in the Smart City community.
+Wilfred Pinfold is the Chief Executive Officer of urban.systems Inc, a company that builds vibrant
+communities using technology to facilitate civic engagement, deliver services and share resources.
+Before leading urban.systems he had a 23 year career at Intel where he led research and development
+programs in Extreme Scale Computing, Internet of Things and Smart Cities. He is a Research Professor in
+Computer Science at Portland state University, has taught classes in business, innovation, aeronautics,
+ocean systems and has more than 30 years of experience in computational and data science. He is a
+member of the City of Portland Technology Oversight committee, holds multiple board positions and is
+the Honorary Consul for the United Kingdom in Oregon. He received his Ph.D. in Computational Fluid
+Dynamics from the University of Strathclyde, Glasgow and attended the Stanford Executive Program.
 
 (more programs to be updated)
 
