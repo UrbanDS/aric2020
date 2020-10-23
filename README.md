@@ -29,29 +29,34 @@ The discussion about making a city intelligent and resilient is occurring on two
 
 ### Workshop Agenda 
 
-- TO BE RELEASED IN OCTOBER 2020. 
+Zoom Link - https://acm-org.zoom.us/j/91533242045?pwd=TkF4MXRrYS9RZFZFa3UzNEZGNDh5UT09
 
-- Paper awards will be announced during the workshop following the presentations. 
+Session I 9:00am-12:00 pm (EST) (UTC: 2pm – 5pm)
+Time	Speaker	Presentation title
+9:00 - 9:10	Chair	Opening Remarks
+9:10 - 10:00	Dr. Sokwoo Rhee	Smart Cities and Internet of Things
+10:00 - 10:24	Toshikazu Seto	Constructing a Digital City on a Web-3D Platform: Simultaneous and Consistent Generation of Metadata and Tile Data from a Multi-Source Raw Dataset
+10:25 - 10:48	Liam Steadman	Reducing and Linking Spatio-Temporal Datasets with 
+kD-STR
+10:49 - 11:12	Luis Gustavo Coutinho Do Rego	Exploiting Points of Interest for Predictive Policing
+11:13 - 11:36	John Pesavento	Data-Driven Mobility Models for COVID-19 Simulation 
+11:37 - 12:00	Avipsa Roy	Characterizing the Spread of COVID-19 from Human Mobility Patterns and SocioDemographic Indicators 
 
-### Objective
 
-Following our success in ARIC 2019, the *3rd International Workshop on Advances on Resilient and Intelligent Cities (ARIC 2020)* will bring together researchers and practitioners from different disciplines to address the challenges of integrating computing, analytics, public health research, infrastructure resilience and urban sciences in building intelligent and resilient cities that can withstand the impacts of future pandemics and extreme events. This workshop will provide a platform to discuss research areas and issues in modeling urban design by considering sensor technology, edge computing, interactive visualization, modeling and simulation, and advanced data analytics in the context of the current pandemic and continuing extreme events to prepare for future events and build resilient cities.  Given the need to implement artificial intelligence and real-time analytics on the edge to meet the demands of such cities, this workshop fits the general theme of ACM SIGSPATIAL. 
+LUNCH BREAK (12 – 1pm EST) (UTC: 5pm – 6pm)
 
-This year’s workshop invites papers in the following areas:
--	Analytics integrating heterogenous spatio-temporal data for prediction, detection of anomalies and unusual patterns.
--	Real-time analytics of dynamic and distributed data
--	Edge and distributed computing and assess resilience of cyber-physical systems
--	Human dynamics in the Age of Smart/Intelligent Systems
--	Spatial social network analytics in the built environment
--	Theoretical and practical applications of Internet of Things in urban settings 
--	Optimization of sensor locations for urban resilience in the context of design and planning
--	Urban mobility data management and visualization
--	Using augmented reality, simulations and 3D-geovisualization for urban planning and decision making
--	Case studies of successful deployment of smart and resilient cities
--	Policies and theoretical framework for successful deployment of intelligent and resilient cities
--	Existing state-of-the-art and future directions in achieving both smart and resilient cities
+Session II 1:00-5:00pm (EST) (UTC: 6pm – 10pm)
+Time	Speaker	Presentation title
+1:00 - 2:00	Dr. Wilfred Pinfold	Public Private Partnerships: Value Capture in Urban Development
+2:00 – 2:22	Mayra Rodriguez	Green Infrastructures and Their Impact on Resilience - Spatial Interactions in Centralized Sewer Systems
+2:23 - 2:44	Yajie Lee	Seismic Resilience Assessments of Water Pipelines - A Case Study for the City of Los Angeles Water System Pipeline Network
+2:45 - 3:07	Nalini Venkatasubramanian	Designing Community-Based Intelligent Systems for Water Infrastructure Resilience
+3:08 - 3:30	Behzad	Golparvar	AI-supported Citizen Science to Monitor High-Tide Flooding in Newport Beach, California
+3:30 – 5:00	Panel: Smart and Resilient Cities: Where To Go Next?
 
-Specific attention will be given to papers that focus on resilience (community and infrastructure) in the context of COVID-19, and integrate heterogenous data and real-time computing/analytics/visualization to aid with the pandemic and other co-occurring hazards across the world. 
+Panellists: 
+Steven Cauffman, Ian McRae, Scott Tousley, William Mobley, Ronita Bardhan
+
 
 ### Program
 
@@ -78,38 +83,39 @@ member of the City of Portland Technology Oversight committee, holds multiple bo
 the Honorary Consul for the United Kingdom in Oregon. He received his Ph.D. in Computational Fluid
 Dynamics from the University of Strathclyde, Glasgow and attended the Stanford Executive Program.
 
-(more programs to be updated)
+#### Panel - Smart and Resilient Cities: Where To Go Next?
+While research and development activities are being pursued to make cities both smart and resilient, there is still a gap in the discussion how to leverage smart initiatives to make cities resilient to extreme events. The COVID-19 pandemic has highlighted this gap and brought forth to our notice the need to leverage public-private partnerships, technological advancements, and knowledge gained from research in the area of resilience to discuss what the next generation of resilience research and application should be. The invited panelists will discuss the issue of geo-design and its role in making cities resilient, current standards and policies that enable integration of smart city initiatives and resilience framework, the role of private entities and policy makers in translating research and development activities to policies to ensure stakeholder buy in that will make us achieve the goal of intelligent and resilient cities. 
 
-### Call for Papers
+Panellists:
+Dr. Stephen Cauffman
+![Stephen](img/Stephen.jpg)
+Bio-Sketch
+Mr. Cauffman is the Section Chief, infrastructure Development and Recovery in the Infrastructure Security Division, Cybersecurity and Infrastructure Security Agency (CISA). In this role he oversees efforts to apply a systems-based approach to incorporating resilience measures into infrastructure planning through the development of the Infrastructure Resilience Planning Framework (IRPF) and associated tools. In addition to his CISA role, Mr. Cauffman represents the agency as an Action Officer on the Mitigation Framework Leadership Group (MitFLG) and co-chairs the development and implementation of the National Mitigation Investment Strategy. Mr. Cauffman also serves as a federal board member for the DHS Coastal Resilience Center of Excellence, the Critical Infrastructure Resilience Institute, and the Flood APEX program.
 
-This 3rd International Workshop on ARIC invites the following three types of paper presentations:
-
-1.	Full research paper: 8-10 pages. These papers should present a specific problem or topic and discuss methodology and findings along with future research directions. 
-
-2.	Short research paper or application demo paper: 4 pages. These papers should demonstrate existing methods, toolkits, and best practices for building intelligent and resilient cities.
-
-3.	Vision or statement paper: 2 pages. These papers should be more situational in their coverage and focus on future directions while identifying gaps and challenges for designing intelligent cities under the resilient framework by addressing existing policy, sociological, and technological challenges.
-
-Manuscripts must be submitted in PDF format using the ACM camera-ready templates available at [https://www.acm.org/publications/proceedings-template](http://www.acm.org/publications/proceedings-template). 
-__This year the workshop will provide two student paper awards.__
+Before joining CISA, Mr. Cauffman worked for the National Institute of Standards and Technology (NIST) for 19 years. Most recently, he was a key member of the Community Resilience Group, where he led efforts to implement the Community Resilience Planning Guide to support local resilience planning efforts. Mr. Cauffman initiated resilience research at NIST in 2011 with funding from DHS S&T, to study standards gaps for building and infrastructure design and construction that could impact resilience. He wrote the program plan for NIST’s Community Resilience Program that began in 2013. Mr. Cauffman held several leadership positions at NIST including leader of the Structures Group, Deputy Chief and Acting Chief of the Materials and Structural Systems Division. He was the program manager for NIST’s study of the World Trade Center Disaster and led a 26-member team to study the performance of buildings and infrastructure during hurricanes Katrina and Rita. Mr. Cauffman’s early career involved management of research and development of composite structures for aerospace, commercial, and civil engineering applications.
   
-<a href="https://easychair.org/cfp/ARIC2020" class="button">Submit a Paper</a>
+Dr. Ian McRe
+![Ian](img/Ian.jpg)
+Bio-Sketch
+Ian McRae is an Innovation Designer at Sherwood Design Engineers where he focuses on a variety of projects that promote Low Impact Design (LID) stormwater management at multiple scales and the development of water sustainability guidelines for a wide range of projects. His work experience includes infrastructure master planning and decentralized stormwater management strategies. His recent project experience includes parks and open spaces, urban river master planning, development of flood control tactics, and urban forestry management strategies. With a Bachelor of Science in Molecular Environmental Biology and a Master in Landscape Architecture from UC Berkeley, his work involves the development of methods to evaluate the environmental performance metrics of existing and proposed conditions. Ian has served as a visiting professor at the University of Tennessee’s Department of Plant Sciences and as a lecturer at UC Berkeley’s College of Environmental Design. As a designer, he strives to create environments that operate in a multi-scalar fashion, with the belief that integrating a project site into the broader system is important to creating resilient communities. Ian has used a variety of CFD climate modeling software platforms to evaluate design proposals under a variety of climate scenarios. His projects have looked at air quality and pedestrian comfort, as well as investigating urban heat islands and thermal mitigation strategies. His methods involve the production of site-specific environmental performance metrics using local meteorological data and 3-D modeled site conditions by simulating the complex interactions of building structure, atmosphere, soil and vegetation processes. 
+ 
+Scott Tousley
+![Scott](img/Scott.jpg)
+Bio-Sketch
+Mr. Tousley is an accomplished leader of homeland and national security challenges, solutions and teams, in multiple areas of homeland security and information technology. Good results in multiple environments of change – government and commercial, civil and military, a variety of risk and threat problems, and many complex interagency challenges. Experience leading organizations and teams of up to 175 staff and $80 million budget. Strengths in designing, supporting and leading complex technology/people programs, and with key functions like personnel hiring and management, budget formulation and defense, program evaluation and oversight, communications, procurement, etc. Deep experience with continuous learning, planning and resilience, Smart Cities & Communities, Cyber-Physical Systems and Industrial Control Systems and the "Internet of Things," and cross-domain collaboration and teamwork. And an experienced singer and team artist of musical theater, light opera, choral music, a cappella and barbershop. 
 
-Full research papers should present a specific problem or topic and discuss methodology and findings along with future research directions. Short research papers should demonstrate existing methods, toolkits, and best practices for building intelligent and resilient cities. Vision papers should be more situational in their coverage and focus on future directions while identifying gaps and challenges for designing intelligent cities under the resilient framework by addressing existing policy, sociological, and technological challenges. All submitted papers will be peer-reviewed to ensure the quality and clarity of the research.
+Dr. William Mobley
+![William](img/William.jpg)
+Bio-Sketch
+Dr. Mobley is an Associate Research Scientist with the Institute for Disaster Resilient Texas. He is assisting in planning and coordinating for the Texas Disaster Information System (TDIS). Which will become the primary data hub for Natural Hazards in Texas, acquiring and disseminating data from a variety of data sources. His research leverages Volunteered Geographic Information as sensors to identify flood hazard and risk through data-driven and machine learning techniques. He holds a Ph.D. in Urban and Regional Sciences from Texas A&M University, as well as a Master of Urban Planning from the University of Wisconsin-Milwaukee. 
 
-### Deadlines
+Dr. Ronita Bardhan
+![Ronita](img/Ronita.jpg)
+Bio-Sketch
 
-(Updated at August 31st, 2020. The paper submission date is extended. Other dates were adjusted accordingly)
+Dr Ronita Bardhan is University Lecturer of Sustainable Built Environment at the Department of Architecture, University of Cambridge, UK. She holds visiting position at Stanford University and Indian Institute of Technology Bombay.  She works on the niche sector of habitat design, energy decisions and gender equality for low-income housing in Global South, especially in the slum rehabilitation housing of Mumbai. Her tractable research informs demand-side design solutions which positively affects energy security, gender equality and well-being while entailing fewer environmental risks. She believes that data-driven design of built environments can effectively address sustainability. Through her research, she seeks for the transdisciplinary collaboration where she soft-couples building design, engineering with social science. She is the recipient of The Building Energy Efficiency Higher & Advanced Network (BHAVAN) Fellowship 2016-2017, USA and Charles Wallace India Trust Fellowship, UK in recognition of her work in building design and energy efficiency for low-income communities. Ronita has been awarded the Young Researcher Award 2012 and Exceptional Women of Excellence, 2019 by the Women Economic for her innovative contribution in the field of Sustainable Design and Urban Regeneration. 
 
-~~__Paper submission__: August 15th, 2020~~
-
-~~__Paper submission__: August 31st, 2020~~
-
-(Extended) __Paper submission__: September 11th, 2020
-
-__Acceptance decision__: September 25th, 2020
-
-__Camera ready version__: October 9th, 2020
+Dr Bardhan is part of Behaviour and Building Performance (BBP) research group and Global Energy Nexus in Urban Settlements (GENUS) network. 
 
 
 ### Workshop Registration 
@@ -118,10 +124,7 @@ information can be found [here](https://sigspatial2020.sigspatial.org/registrati
 
 ### Workshop Format
 
-Because of COVID-19, the workshop will be held __Virtually__. For more information, please visit the [ACM SIGSPATIAL Conference website](https://sigspatial2020.sigspatial.org/). 
-
-Authors and participants will receive information about workshop format as well as the venue (if applicable) as soon as we have this information from the conference organizers. 
-
+Workshop will be held virtually. Please use the Zoomlink to participate in the workshop:https://acm-org.zoom.us/j/91533242045?pwd=TkF4MXRrYS9RZFZFa3UzNEZGNDh5UT09
 
 ### Workshop Organizers
 
@@ -139,79 +142,38 @@ Guangtao Fu, University of Exeter (G.Fu@exter.ac.uk)
 
 ### Program Committee:
 
-Clio	Andris	,	Georgia	Institute	of	Technology	(clio@gatech.edu)	
-
-Husain	Aziz	,	Kansas	State	University	(azizhusain@ksu.edu)		
-
-Zhiqiang	Chen	,	University	of	Missouri-Kansas	City	(chenzhiq@umkc.edu)		
-
-Yao-Yi	Chiang	,	University	of	Southern	California	(yaoyic@usc.edu)			
-
-Hongchao	Fan	,	Norwegian	Institute	of	Technology	(hongchao.fan@ntnu.no)		
-
-Shubharoop Ghosh	,	Imagecat, Inc.	(sg@imagecatinc.com)							
-
-Weisi	Guo	,	University	of	Warwick	UK	(Weisi.Guo@warwick.ac.uk)				
-
-Qunying	Huang	,	University	of	Wisconsin-Madison	(qhuang46@wisc.edu)			
-
-Xiao	Huang	,	University	of	Arkansas	(xh1@email.sc.edu)					
-
-Peng	Jia	,	International	Institute	of	Spatial	lifecourse	Epidemiology	(ISLE)	(jiapengff@hotmail.com)	
-
-Subrata	K.	,	Paul	Indian	Institute	of	Technology-Shibpur	(subrata2412@gmail.com)			
-
-Zhenlong	Li	,	University	of	South	Carolina	(ZHENLONG@mailbox.sc.edu)				
-
-Ian	McRae	,	University	of	California	Berkeley	(ikmcrae@gmail.com)				
-
-Christine Prouty, Senior Manager of Infrastructure Initiatives, American Society of Civil Engineers (ASCE) (cprouty@asce.org )
-
-Piyush	Patnaik	,	Syncsort	(piyush_patnik@yahoo.com)							
-
-Sarbeswar	Praharaj	,	Arizona	State	University	(s.praharaj@asu.edu)		
-
-Christine Prouty	,	American Society of Civil Engineers	(cprouty@asce.org)
-
-Mark Raymond, University of Oklahoma, Norman (mraymond@ou.edu)
-
-Bing	She	,	University	of	Michigan	(bingshe@umich.edu)					
-
-Daoqin	Tong	,	Arizona	State	University	(Daoqin.Tong@asu.edu)				
-
-Mingshu	Wang	,	University	of	Twente	(mingshu.wang@utwente.nl)				
-
-Roger	Wang	,	Rutgers	University	(rq.wang@rutgers.edu)						
-
-Shaohua	Wang	,	New	Jersey	Institute	of	Technology	(davidshwang.ca@gmail.com)	
-
-Liping	Yang	,	University	of	New	Mexico	(lipingyang@unm.edu)				
-
-Siyu	Yu	,	Texas	A	&	M	University	(yusiyu_1989@tamu.edu)			
-
-Yihong	Yuan	,	Texas	State	University	(yuan@txstate.edu)					
-
-Gregory	Zacharewicz	,	National	Institute	of	Mines	and	Telecommunications	Alès	France	(Gregory.Zacharewicz@mines-ales.fr)
-
-Fan	Zhang	,	Massachusetts	Institute	of	Technology	(zhangfan@mit.edu)				
-
-Wenwen	Zhang	,	Rutgers	University	(wenwen.zhangvt.edu)						
-
-Zhe	Zhang	,	Texas	A	&	M	University	(zhezhang@tamu.edu)			
-
-Lei	Zou	,	Texas	A	&	M	University	(lzou@tamu.edu)			
+Hussain	Aziz，		Kansas State University 
+Yao-yi	Chiang，	University of Southern California 
+Hongchao 	Fan，		Norwegian University of Science and Technology
+Subharoop 	Ghosh，		ImageCat Inc.
+Qunying 	Huang，		University of Wisconsin-Madison
+Xiao 		Huang，		University of South Carolina
+Zhenlong 	Li，		University of South Carolina
+Ian 		McRae，	UC Berkley
+Sarbeswar	Praharaj， 	Arizona State University
+Christine 	Prouty，		American Society of Civil Engineers
+Bing 		She，		University of Michigan
+Daoqin 	Tong，		Arizona State University 
+Mingshu 	Wang，		University of Twente
+Rou-Qian	Wang，		New Jersey Institute of Technology
+Shaohua 	Wang，		New Jersey Institute of Technology
+Liping 	Yang， 		University of New Mexico
+Gregory	Zacharewicz，	University of Bordeaux, France
+Fan 		Zhang，		MIT
+Lei 		Zou， 		Texas A & M
+	
 
 
 
 ### Student Representative 
 
-Babak Aslani, George Mason University (baslani@gmu.edu)
+Babak Aslani, George Mason University 
 
-Mayra Rodriguez Bennadji, University of Exeter (mr604@exeter.ac.uk) 
+Jiaxin Du, Texas A&M University 
 
-Jiaxin Du, Texas A&M University (jiaxin.du@tamu.edu)
+Mayra Rodriguez Bennadji, University of Exeter 
 
-Avipsa Roy, Arizona State University (aroy29@asu.edu)
+Avipsa Roy, Arizona State University 
 
 ### Organizer Biographies
 
@@ -222,4 +184,25 @@ __Dr. Xinyue Ye__ is an Associate Professor in Department of Landscape Architect
 __Dr. Shima Mohebbi__ is an assistant professor in the Department of Systems Engineering and Operations Research at George Mason University (GMU). Prior to joining GMU, she was an assistant professor in the School of Industrial and Systems Engineering at the University of Oklahoma, and a visiting scholar in the University of Exeter’s Center for Water Systems, UK. Her research areas include game theory, hybrid simulation models, and interpretable data mining with applications in resilient infrastructure systems, healthcare systems, sustainable urban water systems, and smart cities. Her research is mainly supported by the NSF and the US DOT. She serves as a board director in the Modeling and Simulation Division of the Institute of Industrial and Systems Engineers, and an associate editor for the International Journal of Applied Logistics.
 
 __Dr. Guangtao Fu__ is a professor of water intelligence at the Centre for Water Systems, University of Exeter, UK. His research focuses on developing and applying computer models, data analytics and artificial intelligence algorithms to tackle urban water challenges related to urban flooding, water supply and urban wastewater management. He is a Royal Society Industry Fellow and Turing Fellow at the Alan Turing Institute. He has been the principal/co-investigator on more than 20 research projects funded by EU, EPSRC, British Council, Royal Society, and Royal Academy of Engineering. He has authored 140 scientific papers and received a number of awards including the 2014 ‘Quentin Martin Best Practice Oriented Paper’ award and 2018 ‘Best Research-Oriented Paper’ award both from the American Society of Civil Engineers. He was elected as a Fellow of the International Water Association (IWA) in July 2018 in recognition of his ‘distinguished contribution to the fields of water science, technology and management’ in the words of IWA.
+
+### Objective
+
+Following our success in ARIC 2019, the *3rd International Workshop on Advances on Resilient and Intelligent Cities (ARIC 2020)* will bring together researchers and practitioners from different disciplines to address the challenges of integrating computing, analytics, public health research, infrastructure resilience and urban sciences in building intelligent and resilient cities that can withstand the impacts of future pandemics and extreme events. This workshop will provide a platform to discuss research areas and issues in modeling urban design by considering sensor technology, edge computing, interactive visualization, modeling and simulation, and advanced data analytics in the context of the current pandemic and continuing extreme events to prepare for future events and build resilient cities.  Given the need to implement artificial intelligence and real-time analytics on the edge to meet the demands of such cities, this workshop fits the general theme of ACM SIGSPATIAL. 
+
+This year’s workshop invites papers in the following areas:
+-	Analytics integrating heterogenous spatio-temporal data for prediction, detection of anomalies and unusual patterns.
+-	Real-time analytics of dynamic and distributed data
+-	Edge and distributed computing and assess resilience of cyber-physical systems
+-	Human dynamics in the Age of Smart/Intelligent Systems
+-	Spatial social network analytics in the built environment
+-	Theoretical and practical applications of Internet of Things in urban settings 
+-	Optimization of sensor locations for urban resilience in the context of design and planning
+-	Urban mobility data management and visualization
+-	Using augmented reality, simulations and 3D-geovisualization for urban planning and decision making
+-	Case studies of successful deployment of smart and resilient cities
+-	Policies and theoretical framework for successful deployment of intelligent and resilient cities
+-	Existing state-of-the-art and future directions in achieving both smart and resilient cities
+
+Specific attention will be given to papers that focus on resilience (community and infrastructure) in the context of COVID-19, and integrate heterogenous data and real-time computing/analytics/visualization to aid with the pandemic and other co-occurring hazards across the world. 
+
 
