@@ -35,38 +35,38 @@ Session I 9:00am-12:00 pm (EST) (UTC: 2pm – 5pm)
 
 |Time | Speaker | Presentation title|
 
-|9:00 - 9:10	| Chair	| Opening Remarks|
+|9:00 - 9:10| Chair | Opening Remarks|
 
-|9:10 - 10:00|	Dr. Sokwoo Rhee|Smart Cities and Internet of Things|
+|9:10 - 10:00| Dr. Sokwoo Rhee | Smart Cities and Internet of Things|
 
-|10:00 - 10:24|	Toshikazu Seto|Constructing a Digital City on a Web-3D Platform: Simultaneous and Consistent Generation of Metadata and Tile Data from a Multi-Source Raw Dataset|
+|10:00 - 10:24| Toshikazu Seto|Constructing a Digital City on a Web-3D Platform: Simultaneous and Consistent Generation of Metadata and Tile Data from a Multi-Source Raw Dataset|
 
-|10:25 - 10:48|	Liam Steadman|Reducing and Linking Spatio-Temporal Datasets with kD-STR|
+|10:25 - 10:48| Liam Steadman| Reducing and Linking Spatio-Temporal Datasets with kD-STR|
 
-|10:49 - 11:12|	Luis Gustavo Coutinho Do Rego|Exploiting Points of Interest for Predictive Policing|
+|10:49 - 11:12| Luis Gustavo Coutinho Do Rego| Exploiting Points of Interest for Predictive Policing|
 
-|11:13 - 11:36|	John Pesavento|Data-Driven Mobility Models for COVID-19 Simulation |
+|11:13 - 11:36| John Pesavento| Data-Driven Mobility Models for COVID-19 Simulation |
 
-|11:37 - 12:00|	Avipsa Roy|Characterizing the Spread of COVID-19 from Human Mobility Patterns and SocioDemographic Indicators |
+|11:37 - 12:00| Avipsa Roy| Characterizing the Spread of COVID-19 from Human Mobility Patterns and SocioDemographic Indicators |
 
 
 LUNCH BREAK (12 – 1pm EST) (UTC: 5pm – 6pm)
 
 Session II 1:00-5:00pm (EST) (UTC: 6pm – 10pm)
 
-|Time | Speaker |Presentation title|
+|Time | Speaker | Presentation title|
 
-|1:00 - 2:00|Dr. Wilfred Pinfold|Public Private Partnerships: Value Capture in Urban Development|
+|1:00 - 2:00|Dr. Wilfred Pinfold| Public Private Partnerships: Value Capture in Urban Development|
 
-|2:00 – 2:22|Mayra Rodriguez	Green|Infrastructures and Their Impact on Resilience - Spatial Interactions in Centralized Sewer Systems|
+|2:00 – 2:22|Mayra Rodriguez Green| Infrastructures and Their Impact on Resilience - Spatial Interactions in Centralized Sewer Systems|
 
-|2:23 - 2:44|Yajie Lee|Seismic Resilience Assessments of Water Pipelines - A Case Study for the City of Los Angeles Water System Pipeline Network|
+|2:23 - 2:44| Yajie Lee | Seismic Resilience Assessments of Water Pipelines - A Case Study for the City of Los Angeles Water System Pipeline Network|
 
-|2:45 - 3:07|Nalini Venkatasubramanian|	Designing Community-Based Intelligent Systems for Water Infrastructure Resilience|
+|2:45 - 3:07| Nalini Venkatasubramanian | Designing Community-Based Intelligent Systems for Water Infrastructure Resilience|
 
-|3:08 - 3:30|Behzad	Golparvar|AI-supported Citizen Science to Monitor High-Tide Flooding in Newport Beach, California|
+|3:08 - 3:30|Behzad Golparvar| AI-supported Citizen Science to Monitor High-Tide Flooding in Newport Beach, California|
 
-|3:30 – 5:00|Panellists|Panel: Smart and Resilient Cities: Where To Go Next?|
+|3:30 – 5:00| Panellists | Panel: Smart and Resilient Cities: Where To Go Next?|
 
 Panellists: 
 Steven Cauffman, Ian McRae, Scott Tousley, William Mobley, Ronita Bardhan
