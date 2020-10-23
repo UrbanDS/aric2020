@@ -46,7 +46,7 @@ Session I 9:00am-12:00 pm (EST) (UTC: 2pm – 5pm)
 LUNCH BREAK (12 – 1pm EST) (UTC: 5pm – 6pm)
 
 Session II 1:00-5:00pm (EST) (UTC: 6pm – 10pm)
-|Time|	Speaker|	Presentation title|
+|Time | Speaker | Presentation title|
 |1:00 - 2:00|	Dr. Wilfred Pinfold|	Public Private Partnerships: Value Capture in Urban Development|
 |2:00 – 2:22|	Mayra Rodriguez	Green| Infrastructures and Their Impact on Resilience - Spatial Interactions in Centralized Sewer Systems|
 |2:23 - 2:44|	Yajie Lee|	Seismic Resilience Assessments of Water Pipelines - A Case Study for the City of Los Angeles Water System Pipeline Network|
