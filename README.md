@@ -32,27 +32,28 @@ The discussion about making a city intelligent and resilient is occurring on two
 Zoom Link - https://acm-org.zoom.us/j/91533242045?pwd=TkF4MXRrYS9RZFZFa3UzNEZGNDh5UT09
 
 Session I 9:00am-12:00 pm (EST) (UTC: 2pm – 5pm)
-Time	Speaker	Presentation title
-9:00 - 9:10	Chair	Opening Remarks
-9:10 - 10:00	Dr. Sokwoo Rhee	Smart Cities and Internet of Things
-10:00 - 10:24	Toshikazu Seto	Constructing a Digital City on a Web-3D Platform: Simultaneous and Consistent Generation of Metadata and Tile Data from a Multi-Source Raw Dataset
-10:25 - 10:48	Liam Steadman	Reducing and Linking Spatio-Temporal Datasets with 
+
+Time | Speaker | Presentation title
+9:00 - 9:10	| Chair	| Opening Remarks
+9:10 - 10:00|	Dr. Sokwoo Rhee|	Smart Cities and Internet of Things
+10:00 - 10:24|	Toshikazu Seto|	Constructing a Digital City on a Web-3D Platform: Simultaneous and Consistent Generation of Metadata and Tile Data from a Multi-Source Raw Dataset
+10:25 - 10:48|	Liam Steadman|	Reducing and Linking Spatio-Temporal Datasets with 
 kD-STR
-10:49 - 11:12	Luis Gustavo Coutinho Do Rego	Exploiting Points of Interest for Predictive Policing
-11:13 - 11:36	John Pesavento	Data-Driven Mobility Models for COVID-19 Simulation 
-11:37 - 12:00	Avipsa Roy	Characterizing the Spread of COVID-19 from Human Mobility Patterns and SocioDemographic Indicators 
+10:49 - 11:12|	Luis Gustavo Coutinho Do Rego|	Exploiting Points of Interest for Predictive Policing
+11:13 - 11:36|	John Pesavento|	Data-Driven Mobility Models for COVID-19 Simulation 
+11:37 - 12:00|	Avipsa Roy|	Characterizing the Spread of COVID-19 from Human Mobility Patterns and SocioDemographic Indicators 
 
 
 LUNCH BREAK (12 – 1pm EST) (UTC: 5pm – 6pm)
 
 Session II 1:00-5:00pm (EST) (UTC: 6pm – 10pm)
-Time	Speaker	Presentation title
-1:00 - 2:00	Dr. Wilfred Pinfold	Public Private Partnerships: Value Capture in Urban Development
-2:00 – 2:22	Mayra Rodriguez	Green Infrastructures and Their Impact on Resilience - Spatial Interactions in Centralized Sewer Systems
-2:23 - 2:44	Yajie Lee	Seismic Resilience Assessments of Water Pipelines - A Case Study for the City of Los Angeles Water System Pipeline Network
-2:45 - 3:07	Nalini Venkatasubramanian	Designing Community-Based Intelligent Systems for Water Infrastructure Resilience
-3:08 - 3:30	Behzad	Golparvar	AI-supported Citizen Science to Monitor High-Tide Flooding in Newport Beach, California
-3:30 – 5:00	Panel: Smart and Resilient Cities: Where To Go Next?
+Time|	Speaker|	Presentation title
+1:00 - 2:00|	Dr. Wilfred Pinfold|	Public Private Partnerships: Value Capture in Urban Development
+2:00 – 2:22|	Mayra Rodriguez	Green| Infrastructures and Their Impact on Resilience - Spatial Interactions in Centralized Sewer Systems
+2:23 - 2:44|	Yajie Lee|	Seismic Resilience Assessments of Water Pipelines - A Case Study for the City of Los Angeles Water System Pipeline Network
+2:45 - 3:07|	Nalini Venkatasubramanian|	Designing Community-Based Intelligent Systems for Water Infrastructure Resilience
+3:08 - 3:30|	Behzad	Golparvar|	AI-supported Citizen Science to Monitor High-Tide Flooding in Newport Beach, California
+3:30 – 5:00|	Panellists|Panel: Smart and Resilient Cities: Where To Go Next?
 
 Panellists: 
 Steven Cauffman, Ian McRae, Scott Tousley, William Mobley, Ronita Bardhan
@@ -62,7 +63,9 @@ Steven Cauffman, Ian McRae, Scott Tousley, William Mobley, Ronita Bardhan
 
 #### Smart Cities and Internet of Things
 Presented by Sokwoo Rhee. 
+
 ![SokwooRhee](SokwooRhee photo 2.jpg)
+
 Internet of Things are unleashing an extraordinary cycle of innovation through smart systems in our everyday life. A lot of cities and communities are striving to deploy advanced solutions that can increase productivity, sustainability, and improve the quality of life for residents. This presentation will provide an overview of the structure of smart cities, global trends, and technical issues and challenges. It will also discuss how NIST is working with private sector stakeholders and other U.S. federal agencies to enables cities and communities worldwide to share ideas, develop comprehensive requirements and solutions to their common issues, and leverage their respective investments.
 
 Sokwoo Rhee is Associate Director for Cyber-Physical Systems (CPS) Innovation at the National Institute of Standards and Technology (NIST), U.S. Department of Commerce. He is leading smart city and Internet of Things (IoT) innovation programs at NIST, including the Global City Teams Challenge (GCTC) and the Smart Cities and Communities Framework (SCCF) program. He previously served as a Presidential Innovation Fellow on CPS, a program by the White House. His work and achievements have been recognized through multiple awards including MIT Technology Review’s Top Innovators under 35. He received his M.S. and Ph.D. in Mechanical Engineering from MIT. He is leading the Global City Teams Challenge (GCTC) which aims to create a replicable and scalable model for collaborative incubation and deployment of Internet of Things (IoT) and Cyber-Physical Systems (CPS) solutions to improve the quality of life in smart cities around the world.
@@ -87,31 +90,36 @@ Dynamics from the University of Strathclyde, Glasgow and attended the Stanford E
 While research and development activities are being pursued to make cities both smart and resilient, there is still a gap in the discussion how to leverage smart initiatives to make cities resilient to extreme events. The COVID-19 pandemic has highlighted this gap and brought forth to our notice the need to leverage public-private partnerships, technological advancements, and knowledge gained from research in the area of resilience to discuss what the next generation of resilience research and application should be. The invited panelists will discuss the issue of geo-design and its role in making cities resilient, current standards and policies that enable integration of smart city initiatives and resilience framework, the role of private entities and policy makers in translating research and development activities to policies to ensure stakeholder buy in that will make us achieve the goal of intelligent and resilient cities. 
 
 Panellists:
+
 Dr. Stephen Cauffman
+
 ![Stephen](img/Stephen.jpg)
-Bio-Sketch
+
 Mr. Cauffman is the Section Chief, infrastructure Development and Recovery in the Infrastructure Security Division, Cybersecurity and Infrastructure Security Agency (CISA). In this role he oversees efforts to apply a systems-based approach to incorporating resilience measures into infrastructure planning through the development of the Infrastructure Resilience Planning Framework (IRPF) and associated tools. In addition to his CISA role, Mr. Cauffman represents the agency as an Action Officer on the Mitigation Framework Leadership Group (MitFLG) and co-chairs the development and implementation of the National Mitigation Investment Strategy. Mr. Cauffman also serves as a federal board member for the DHS Coastal Resilience Center of Excellence, the Critical Infrastructure Resilience Institute, and the Flood APEX program.
 
 Before joining CISA, Mr. Cauffman worked for the National Institute of Standards and Technology (NIST) for 19 years. Most recently, he was a key member of the Community Resilience Group, where he led efforts to implement the Community Resilience Planning Guide to support local resilience planning efforts. Mr. Cauffman initiated resilience research at NIST in 2011 with funding from DHS S&T, to study standards gaps for building and infrastructure design and construction that could impact resilience. He wrote the program plan for NIST’s Community Resilience Program that began in 2013. Mr. Cauffman held several leadership positions at NIST including leader of the Structures Group, Deputy Chief and Acting Chief of the Materials and Structural Systems Division. He was the program manager for NIST’s study of the World Trade Center Disaster and led a 26-member team to study the performance of buildings and infrastructure during hurricanes Katrina and Rita. Mr. Cauffman’s early career involved management of research and development of composite structures for aerospace, commercial, and civil engineering applications.
   
 Dr. Ian McRe
+
 ![Ian](img/Ian.jpg)
-Bio-Sketch
+
 Ian McRae is an Innovation Designer at Sherwood Design Engineers where he focuses on a variety of projects that promote Low Impact Design (LID) stormwater management at multiple scales and the development of water sustainability guidelines for a wide range of projects. His work experience includes infrastructure master planning and decentralized stormwater management strategies. His recent project experience includes parks and open spaces, urban river master planning, development of flood control tactics, and urban forestry management strategies. With a Bachelor of Science in Molecular Environmental Biology and a Master in Landscape Architecture from UC Berkeley, his work involves the development of methods to evaluate the environmental performance metrics of existing and proposed conditions. Ian has served as a visiting professor at the University of Tennessee’s Department of Plant Sciences and as a lecturer at UC Berkeley’s College of Environmental Design. As a designer, he strives to create environments that operate in a multi-scalar fashion, with the belief that integrating a project site into the broader system is important to creating resilient communities. Ian has used a variety of CFD climate modeling software platforms to evaluate design proposals under a variety of climate scenarios. His projects have looked at air quality and pedestrian comfort, as well as investigating urban heat islands and thermal mitigation strategies. His methods involve the production of site-specific environmental performance metrics using local meteorological data and 3-D modeled site conditions by simulating the complex interactions of building structure, atmosphere, soil and vegetation processes. 
  
 Scott Tousley
+
 ![Scott](img/Scott.jpg)
-Bio-Sketch
+
 Mr. Tousley is an accomplished leader of homeland and national security challenges, solutions and teams, in multiple areas of homeland security and information technology. Good results in multiple environments of change – government and commercial, civil and military, a variety of risk and threat problems, and many complex interagency challenges. Experience leading organizations and teams of up to 175 staff and $80 million budget. Strengths in designing, supporting and leading complex technology/people programs, and with key functions like personnel hiring and management, budget formulation and defense, program evaluation and oversight, communications, procurement, etc. Deep experience with continuous learning, planning and resilience, Smart Cities & Communities, Cyber-Physical Systems and Industrial Control Systems and the "Internet of Things," and cross-domain collaboration and teamwork. And an experienced singer and team artist of musical theater, light opera, choral music, a cappella and barbershop. 
 
 Dr. William Mobley
+
 ![William](img/William.jpg)
-Bio-Sketch
+
 Dr. Mobley is an Associate Research Scientist with the Institute for Disaster Resilient Texas. He is assisting in planning and coordinating for the Texas Disaster Information System (TDIS). Which will become the primary data hub for Natural Hazards in Texas, acquiring and disseminating data from a variety of data sources. His research leverages Volunteered Geographic Information as sensors to identify flood hazard and risk through data-driven and machine learning techniques. He holds a Ph.D. in Urban and Regional Sciences from Texas A&M University, as well as a Master of Urban Planning from the University of Wisconsin-Milwaukee. 
 
 Dr. Ronita Bardhan
+
 ![Ronita](img/Ronita.jpg)
-Bio-Sketch
 
 Dr Ronita Bardhan is University Lecturer of Sustainable Built Environment at the Department of Architecture, University of Cambridge, UK. She holds visiting position at Stanford University and Indian Institute of Technology Bombay.  She works on the niche sector of habitat design, energy decisions and gender equality for low-income housing in Global South, especially in the slum rehabilitation housing of Mumbai. Her tractable research informs demand-side design solutions which positively affects energy security, gender equality and well-being while entailing fewer environmental risks. She believes that data-driven design of built environments can effectively address sustainability. Through her research, she seeks for the transdisciplinary collaboration where she soft-couples building design, engineering with social science. She is the recipient of The Building Energy Efficiency Higher & Advanced Network (BHAVAN) Fellowship 2016-2017, USA and Charles Wallace India Trust Fellowship, UK in recognition of her work in building design and energy efficiency for low-income communities. Ronita has been awarded the Young Researcher Award 2012 and Exceptional Women of Excellence, 2019 by the Women Economic for her innovative contribution in the field of Sustainable Design and Urban Regeneration. 
 
@@ -143,27 +151,43 @@ Guangtao Fu, University of Exeter (G.Fu@exter.ac.uk)
 ### Program Committee:
 
 Hussain	Aziz，		Kansas State University 
+
 Yao-yi	Chiang，	University of Southern California 
+
 Hongchao 	Fan，		Norwegian University of Science and Technology
+
 Subharoop 	Ghosh，		ImageCat Inc.
+
 Qunying 	Huang，		University of Wisconsin-Madison
+
 Xiao 		Huang，		University of South Carolina
+
 Zhenlong 	Li，		University of South Carolina
+
 Ian 		McRae，	UC Berkley
+
 Sarbeswar	Praharaj， 	Arizona State University
+
 Christine 	Prouty，		American Society of Civil Engineers
+
 Bing 		She，		University of Michigan
+
 Daoqin 	Tong，		Arizona State University 
+
 Mingshu 	Wang，		University of Twente
+
 Rou-Qian	Wang，		New Jersey Institute of Technology
+
 Shaohua 	Wang，		New Jersey Institute of Technology
+
 Liping 	Yang， 		University of New Mexico
+
 Gregory	Zacharewicz，	University of Bordeaux, France
+
 Fan 		Zhang，		MIT
+
 Lei 		Zou， 		Texas A & M
 	
-
-
 
 ### Student Representative 
 
