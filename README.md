@@ -32,7 +32,12 @@ Zoom Link - https://acm-org.zoom.us/j/91533242045?pwd=TkF4MXRrYS9RZFZFa3UzNEZGND
 
 ![agenda](img/agenda.png)
 
-[click here](./ARIC2020.html) to see more details.
+
+[click here](./ARIC2020.html) to see more details of our workshop program.
+
+[main conference program](https://sigspatial2020.sigspatial.org/program)  
+
+[main conference schedule](https://sigspatial2020.sigspatial.org/schedule)
 
 ### Program
 
