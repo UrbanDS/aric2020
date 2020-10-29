@@ -28,11 +28,11 @@ The advancements in sensor technology and ubiquity of connected devices has enab
 The discussion about making a city intelligent and resilient is occurring on two parallel planes. The COVID-19 pandemic has highlighted the difference between smart and resilient cities more so than any other hazard events. For instance, the availability of real-time data and analytics, cloud computing and artificial intelligence (AI) have enabled the development of dashboards and platforms to help with decision-making during this pandemic. Nevertheless, these platforms and dashboards have not been useful in addressing the resilience of the impacted communities as evident from the economic stress that every country is facing around the world. The occurrence of other natural hazards like cyclone Amphan in India or flooding in Michigan due to dam failure during COVID-19 has also brought forth the disconnect between society and technology in this discussion about smart and resilient cities. The challenge now is not only to leverage high performance computing or augmented reality to help with decision making, but also the need to plan and design intelligent cities under the framework of resilience so that online and real-time knowledge discovery from dynamic data streams could be used in conjunction with static data sets to help practitioners and researchers with their policy decisions. 
 
 ### Workshop Agenda 
-[click here](./ARIC2020.html) to see more details.
 Zoom Link - https://acm-org.zoom.us/j/91533242045?pwd=TkF4MXRrYS9RZFZFa3UzNEZGNDh5UT09
 
 ![agenda](img/agenda.png)
 
+[click here](./ARIC2020.html) to see more details.
 
 ### Program
 
