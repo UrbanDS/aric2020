@@ -41,6 +41,8 @@ Zoom Link - https://acm-org.zoom.us/j/91533242045?pwd=TkF4MXRrYS9RZFZFa3UzNEZGND
 
 ### Program
 
+[New!] All the videos and powerpoints in the workshop are availuable at: https://www.dropbox.com/sh/rfrzknvpbgr9c2s/AADr_vaDuMTqBvgQbdI2Qrixa?dl=0
+
 #### Smart Cities and Internet of Things
 Presented by Sokwoo Rhee. 
 
@@ -106,13 +108,6 @@ Dr Ronita Bardhan is University Lecturer of Sustainable Built Environment at the
 Dr Bardhan is part of Behaviour and Building Performance (BBP) research group and Global Energy Nexus in Urban Settlements (GENUS) network. 
 
 
-### Workshop Registration 
-
-information can be found [here](https://sigspatial2020.sigspatial.org/registration/).
-
-### Workshop Format
-
-Workshop will be held virtually. Please use the Zoomlink to participate in the workshop:https://acm-org.zoom.us/j/91533242045?pwd=TkF4MXRrYS9RZFZFa3UzNEZGNDh5UT09
 
 ### Workshop Organizers
 
